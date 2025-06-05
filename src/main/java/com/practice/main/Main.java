@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Amrita");
         System.out.println("feature some-feature-v1");
     }
+
+    public void display() {
+        System.out.println("feature some-feature-v2");
+    }
 }
