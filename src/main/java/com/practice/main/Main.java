@@ -5,9 +5,10 @@ public class Main {
         System.out.println("hello world!!");
         System.out.println("Amrita");
         System.out.println("feature some-feature-v1");
+        display();
     }
 
-    public void display() {
+    public static void display() {
         System.out.println("feature some-feature-v2");
     }
 }
